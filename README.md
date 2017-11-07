@@ -1,7 +1,7 @@
 # plugins
 <h1>Los 10 plugins más usados en QGIS</h1>
 
-<a href="https://github.com/qgismexico/plugins/tree/master/quick_map_services">1.- QuickMapServices</a><br>
+<a href="https://plugins.qgis.org/plugins/quick_map_services/">1.- QuickMapServices</a><br>
 <a href="https://github.com/qgismexico/plugins/tree/master/SemiAutomaticClassificationPlugin">2.- Semi-Automatic Classification Plugin</a><br>
 <a href="https://github.com/qgismexico/plugins/tree/master/mmqgis">3.- mmqgis</a><br>
 4.- AutoFields<br>
