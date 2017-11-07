@@ -25,27 +25,27 @@
 </tr>
 <tr>
 <td> <a>4.- AutoFields</a> </td>
-<td> <a href="https://plugins.qgis.org/">AutoFields</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/">AutoFields</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/AutoFields/">AutoFields</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/AutoFields-0.5.1.zip">AutoFields</a> </td>
 </tr>
 <tr>
 <td> <a>5.- Qgis2threejs</a> </td>
-<td> <a href="https://plugins.qgis.org/plugins/">Qgis2threejs</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/">Qgis2threejs</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/Qgis2threejs/">Qgis2threejs</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/Qgis2threejs-1.4.2.zip">Qgis2threejs</a> </td>
 </tr>
 <tr>
 <td> <a>6.- Points2One</a> </td>
-<td> <a href="https://plugins.qgis.org/plugins/">Points2One</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/">Points2One</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/points2one/">Points2One</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/points2one-1.0.2.zip">Points2One</a> </td>
 </tr>
 <tr>
 <td> <a>7.- qgis2web</a> </td>
-<td> <a href="https://plugins.qgis.org/plugins/">qgis2web</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/">qgis2web</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/qgis2web/">qgis2web</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/qgis2web-2.30.0.zip">qgis2web</a> </td>
 </tr>
 <tr>
 <td> <a>8.- TimeManager</a> </td>
-<td> <a href="https://plugins.qgis.org/plugins/">TimeManager</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/">TimeManager</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/timemanager/">TimeManager</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/timemanager-2.4.1.zip">TimeManager</a> </td>
 </tr>
 </table>
