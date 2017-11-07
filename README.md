@@ -8,7 +8,7 @@
 <td> <a>Archivo comprimido .zip</a> </td>
 </tr>
 <tr>
-<td> <a>1.- QuickMapServices</a> </td>
+<td> <a>1.- QuickMapServices</a>  <img src="https://github.com/qgismexico/plugins/blob/master/iconos/quickmapservices.png" width="10">  </td>
 <td> <a href="https://plugins.qgis.org/plugins/quick_map_services/">QuickMapServices</a> </td>
 <td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/quick_map_services-0.19.3.zip">QuickMapServices</a> </td>
 </tr>
