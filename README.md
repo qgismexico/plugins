@@ -48,4 +48,14 @@
 <td> <a href="https://plugins.qgis.org/plugins/timemanager/">TimeManager</a> </td>
 <td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/timemanager-2.4.1.zip">TimeManager</a> </td>
 </tr>
+<tr>
+<td> <a>9.- Table Manager <img src="https://github.com/qgismexico/plugins/blob/master/iconos/tablemanager.png" width="20"></a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/tablemanager/">Table Manager</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/tablemanager-0.6.3.zip">Table Manager</a> </td>
+</tr>
+<tr>
+<td> <a>10.- XyTools <img src="https://github.com/qgismexico/plugins/blob/master/iconos/xytools.png" width="20"></a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/xytools/">XyTools</a> </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/xytools-0.3.6.zip">XyTools</a> </td>
+</tr>
 </table>
