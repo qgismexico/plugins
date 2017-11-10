@@ -3,7 +3,7 @@
 
 <table style="width:100%">
 <tr>
-  <td align="right">Plugin</td>
+  <td align="center">Plugin</td>
 <td> <a>Versión</a> </td>
 <td> <a>Página oficial</a> </td>
 <td> <a>Archivo comprimido .zip</a> </td>
