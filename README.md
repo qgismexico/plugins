@@ -4,12 +4,12 @@
 <table style="width:100%">
 <tr>
   <td align="center">Plugin</td>
-<td> <a>Versión</a> </td>
-<td> <a>Página oficial</a> </td>
-<td> <a>Archivo comprimido .zip</a> </td>
+<td align="center">Version</td>
+<td align="center">Página oficial</td>
+<td align="center">Archivo comprimido .zip</td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/quickmapservices.png" width="20" > 1.- QuickMapServices     </a></td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/quickmapservices.png" width="20" > 1.- QuickMapServices     </td>
   <td>
     <a>0.19.3</a>
   </td>
