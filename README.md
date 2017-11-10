@@ -11,82 +11,82 @@
 <tr>
 <td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/quickmapservices.png" width="20" > 1.- QuickMapServices     </td>
   <td>
-    <a>0.19.3</a>
+    0.19.3
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/quick_map_services/">QuickMapServices</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/quick_map_services-0.19.3.zip">QuickMapServices</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/quick_map_services/">QuickMapServices </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/quick_map_services-0.19.3.zip">QuickMapServices </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/semiautomaticclassification.png" width="20"> 2.- Semi-Automatic Classification Plugin </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/semiautomaticclassification.png" width="20"> 2.- Semi-Automatic Classification Plugin  </td>
   <td>
-    <a>5.3.10</a>
+    5.3.10
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/">Semi-Automatic Classification Plugin</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/SemiAutomaticClassificationPlugin-5.3.10.zip">Semi-Automatic Classification Plugin</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/">Semi-Automatic Classification Plugin </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/SemiAutomaticClassificationPlugin-5.3.10.zip">Semi-Automatic Classification Plugin </td>
 </tr>
 </tr>
 <tr>
-<td> <a> 3.- mmqgis </a> </td>
+<td>  3.- mmqgis  </td>
   <td>
-    <a>2017.5.14</a>
+    2017.5.14
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/mmqgis/">mmqgis</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/mmqgis-2017.5.14.zip">mmqgis</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/mmqgis/">mmqgis </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/mmqgis-2017.5.14.zip">mmqgis </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/autofields.png" width="20"> 4.- AutoFields </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/autofields.png" width="20"> 4.- AutoFields  </td>
   <td>
-    <a>0.5.1</a>
+    0.5.1
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/AutoFields/">AutoFields</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/AutoFields-0.5.1.zip">AutoFields</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/AutoFields/">AutoFields </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/AutoFields-0.5.1.zip">AutoFields </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/qgis2threejs.png" width="20"> 5.- Qgis2threejs </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/qgis2threejs.png" width="20"> 5.- Qgis2threejs  </td>
   <td>
-    <a>1.4.2</a>
+    1.4.2
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/Qgis2threejs/">Qgis2threejs</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/Qgis2threejs-1.4.2.zip">Qgis2threejs</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/Qgis2threejs/">Qgis2threejs </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/Qgis2threejs-1.4.2.zip">Qgis2threejs </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/points2one.png" width="20"> 6.- Points2One </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/points2one.png" width="20"> 6.- Points2One  </td>
   <td>
-    <a>1.0.2</a>
+    1.0.2
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/points2one/">Points2One</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/points2one-1.0.2.zip">Points2One</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/points2one/">Points2One </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/points2one-1.0.2.zip">Points2One </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/qgis2web.png" width="20"> 7.- qgis2web </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/qgis2web.png" width="20"> 7.- qgis2web  </td>
   <td>
-    <a>2.30.0</a>
+    2.30.0
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/qgis2web/">qgis2web</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/qgis2web-2.30.0.zip">qgis2web</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/qgis2web/">qgis2web </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/qgis2web-2.30.0.zip">qgis2web </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/timemanager.png" width="20"> 8.- TimeManager </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/timemanager.png" width="20"> 8.- TimeManager  </td>
   <td>
-    <a>2.4.1</a>
+    2.4.1
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/timemanager/">TimeManager</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/timemanager-2.4.1.zip">TimeManager</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/timemanager/">TimeManager </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/timemanager-2.4.1.zip">TimeManager </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/tablemanager.png" width="20"> 9.- Table Manager </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/tablemanager.png" width="20"> 9.- Table Manager  </td>
   <td>
-    <a>0.6.3</a>
+    0.6.3
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/tablemanager/">Table Manager</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/tablemanager-0.6.3.zip">Table Manager</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/tablemanager/">Table Manager </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/tablemanager-0.6.3.zip">Table Manager </td>
 </tr>
 <tr>
-<td> <a><img src="https://github.com/qgismexico/plugins/blob/master/iconos/xytools.png" width="20"> 10.- XyTools </a> </td>
+<td> <img src="https://github.com/qgismexico/plugins/blob/master/iconos/xytools.png" width="20"> 10.- XyTools  </td>
   <td>
-    <a>0.3.6</a>
+    0.3.6
   </td>
-<td> <a href="https://plugins.qgis.org/plugins/xytools/">XyTools</a> </td>
-<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/xytools-0.3.6.zip">XyTools</a> </td>
+<td> <a href="https://plugins.qgis.org/plugins/xytools/">XyTools </td>
+<td> <a href="https://github.com/qgismexico/plugins/blob/master/plugins/xytools-0.3.6.zip">XyTools </td>
 </tr>
 </table>
