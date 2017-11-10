@@ -1,5 +1,4 @@
-# plugins
-<h1>Los 10 plugins más usados en QGIS</h1>
+# Los 10 plugins más usados en QGIS
 
 <table style="width:100%">
 <tr>
